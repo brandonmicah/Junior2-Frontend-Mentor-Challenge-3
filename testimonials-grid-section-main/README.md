@@ -24,7 +24,6 @@ ONLY CREATED TO BE VIEWED ON DESKTOP.
 ### Screenshot
 
 <img width="1123" alt="Final Desktop layout" src="https://user-images.githubusercontent.com/100802480/219067721-659ae758-e264-4ea6-80f0-18c722f58d2b.png">
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 ### Built with
 
